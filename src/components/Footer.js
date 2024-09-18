@@ -97,7 +97,7 @@ const Footer = ({ footerCities }) => {
       </div>
       <div className="flex flex-col w-full items-center justify-center bg-[#110705] text-white ">
         <p className="py-2">
-          Made with 💓 by Divu, Let's connect beyond the Plate
+          Made with 💓 by Shreya, Let's connect beyond the Plate
         </p>
         <div className="flex justify-between items-center gap-8 py-4">
           <a>
